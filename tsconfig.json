@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "alwaysStrict": true,
+    "esModuleInterop": true,
+    "module": "CommonJS",
+    "noImplicitAny": true,
+    "target": "ES2017",
+    "sourceMap": true
+  },
+  "include": ["**/*.ts"]
+}
