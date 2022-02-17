@@ -1,9 +1,9 @@
 {
   "compilerOptions": {
-    "alwaysStrict": true,
+    "alwaysStrict": false,
     "esModuleInterop": true,
     "module": "CommonJS",
-    "noImplicitAny": true,
+    "noImplicitAny": false,
     "target": "ES2017",
     "sourceMap": true
   },

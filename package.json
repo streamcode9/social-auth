@@ -13,8 +13,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@okta/oidc-middleware": "^4.5.1",
     "express": "^4.17.2",
-    "express-openid-connect": "^2.6.0"
+    "express-session": "^1.17.2"
   },
   "devDependencies": {
     "@types/express": "^4.17.13",
